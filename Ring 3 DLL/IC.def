@@ -1,0 +1,13 @@
+LIBRARY
+EXPORTS
+ipv4_new_rule
+ipv6_new_rule
+start
+stop
+dele
+process_new_rule
+dele_all
+get_m_ip_num
+get_next_m_ip
+get_first_m_ip
+init
